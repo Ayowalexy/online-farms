@@ -23,7 +23,7 @@ import {
 } from "../../components/product-card/product-card.styles";
 
 const RetailBuy = ({retailInfo}) => {
-    const { imageUrl, price, name, id, rating } = retailInfo;
+    const { imageUrl, price, name, id, rating = 4 } = retailInfo;
     const { addItemToCart } = useContext(CartContext);
 
     const addProductToCart = () => addItemToCart(retailInfo);
