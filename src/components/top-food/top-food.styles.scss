@@ -1,0 +1,8 @@
+.top-food-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    column-gap: 10px;
+    row-gap: 50px;
+    margin-top: 9rem;
+}

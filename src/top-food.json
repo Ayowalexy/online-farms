@@ -1,0 +1,140 @@
+[
+    {
+      "id": 1,
+      "name": "Pure and locally extracted 5litres palm-oil",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1548750442.jpg",
+      "price": 16399,
+      "tag": "-20%",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Bags of Sweet Potato",
+      "imageUrl": "https://i.etsystatic.com/17755157/r/il/1fb0e9/2600782924/il_794xN.2600782924_imnc.jpg",
+      "price": 27000,
+      "tag": "-20%",
+      "rating": 2
+
+
+    },
+    {
+      "id": 3,
+      "name": "Bucket of Ogbono",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1602076715.jpg",
+      "price": 4000,
+      "tag": "-20%",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Crate of Eggs",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1588703038.jpg",
+      "price": 1000,
+      "tag": "-20%",
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "Bags of Garri",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1539334413.JPG",
+      "price": 40000,
+      "tag": "-20%",
+      "rating": 5
+
+    },
+    {
+      "id": 6,
+      "name": "Bag of Oron Crayfish",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1548931336.jpg",
+      "price": 35000,
+      "tag": "-20%",
+      "rating": 3
+
+    },
+    {
+      "id": 7,
+      "name": "Fresh Grapes",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+      "price": 3000,
+      "tag": "-20%",
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Snails",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+      "price": 7000,
+      "tag": "-20%",
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "name": "Mustard Seeds",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1544987078.jpg",
+      "price": 5000,
+      "tag": "-20%",
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "name": "Crate of Eggs",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1588703038.jpg",
+      "price": 1000,
+      "tag": "-20%",
+      "rating": 2
+
+    },
+    {
+      "id": 11,
+      "name": "Bags of Garri",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1539334413.JPG",
+      "price": 40000,
+      "tag": "-20%",
+      "rating": 5
+
+    },
+    {
+      "id": 12,
+      "name": "Pure and locally extracted 5litres palm-oil",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1548750442.jpg",
+      "price": 7000,
+      "tag": "-20%",
+      "rating": 5
+
+    },
+    {
+      "id": 13,
+      "name": "Bags of Sweet Potato",
+      "imageUrl": "https://i.etsystatic.com/17755157/r/il/1fb0e9/2600782924/il_794xN.2600782924_imnc.jpg",
+      "price": 35000,
+      "tag": "-20%",
+      "rating": 2
+
+    },
+    {
+      "id": 16,
+      "name": "Snails",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+      "price": 7000,
+      "tag": "-20%",
+      "rating": 3
+
+    },
+    {
+      "id": 14,
+      "name": "Bucket of Ogbono",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1602076715.jpg",
+      "price": 4000,
+      "tag": "-20%",
+      "rating": 4
+    },
+    {
+      "id": 15,
+      "name": "Fresh Grapes",
+      "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+      "price": 3000,
+      "tag": "-20%",
+      "rating": 5
+    }
+   
+  ]

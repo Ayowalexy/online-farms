@@ -1,0 +1,43 @@
+$font-stack: 'Sora', sans-serif;
+
+.category-one {
+    width: 93%;
+    height: 12rem;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+      rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    background-color: #fff;
+    margin: 0 auto;
+
+
+    &:hover {
+      outline: 1px solid orange;
+      cursor: pointer;
+    }
+    .category-text {
+      padding: 0 0.6rem;
+      h4 {
+        color: rgb(85, 219, 85);
+        font-size: .9rem;
+        margin-top: .8rem;
+        font-weight: 600;
+        font-family: $font-stack;
+      }
+      p{
+          font-size: .8rem;
+          text-align: left;
+          color: #000;
+          line-height: 1rem;
+          margin-top: -1.1rem;
+          font-family: $font-stack;
+          font-weight: 300;
+      }
+    }
+    .background-image {
+        width: 100%;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 60%;
+      }
+  }
+ 

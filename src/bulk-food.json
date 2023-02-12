@@ -1,0 +1,647 @@
+[
+  {
+    "id": 1,
+    "name": "Pure and locally extracted 5litres palm-oil",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1548750442.jpg",
+    "price": 160399,
+    "rating": 0,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 2,
+    "name": "Bags of Sweet Potato",
+    "imageUrl": "https://i.etsystatic.com/17755157/r/il/1fb0e9/2600782924/il_794xN.2600782924_imnc.jpg",
+    "price": 27000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 3,
+    "name": "Bucket of Ogbono",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1602076715.jpg",
+    "price": 4000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 4,
+    "name": "Crate of Eggs",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1588703038.jpg",
+    "price": 1000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 5,
+    "name": "Bags of Garri",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1539334413.JPG",
+    "price": 40000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 6,
+    "name": "Bag of Oron Crayfish",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1548931336.jpg",
+    "price": 35000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 7,
+    "name": "Fresh Grapes",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 8,
+    "name": "Snails",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+    "price": 7000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 9,
+    "name": "Mustard Seeds",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1544987078.jpg",
+    "price": 5000
+ 
+ },
+  {
+    "id": 10,
+    "name": "Crate of Eggs",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1588703038.jpg",
+    "price": 1000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 11,
+    "name": "Bags of Garri",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1539334413.JPG",
+    "price": 40000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 12,
+    "name": "Pure and locally extracted 5litres palm-oil",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1548750442.jpg",
+    "price": 7000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 13,
+    "name": "Bags of Sweet Potato",
+    "imageUrl": "https://i.etsystatic.com/17755157/r/il/1fb0e9/2600782924/il_794xN.2600782924_imnc.jpg",
+    "price": 35000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 14,
+    "name": "Bucket of Ogbono",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1602076715.jpg",
+    "price": 4000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 15,
+    "name": "Fresh Grapes",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 16,
+    "name": "Snails",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+    "price": 7000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 20,
+    "name": "Mustard Seeds",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1544987078.jpg",
+    "price": 5000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 10,
+    "name": "Cabbage (jos) - Unpeeled (50kg)",
+    "imageUrl": "https://pricepally.com/products/5e1db8c908706.jpeg",
+    "price": 16890,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 11,
+    "name": "Onions - Light Red (50kg)",
+    "imageUrl": "https://pricepally.com/products/632b164cea0dd.jpg",
+    "price": 27000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 12,
+    "name": "Yam - New Onitsha (100 big tubers)",
+    "imageUrl": "https://pricepally-images.s3.us-east-2.amazonaws.com/products/615db2c8c3c01.jpg",
+    "price": 170460,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 13,
+    "name": "Orange (50 medium pieces) ",
+    "imageUrl": "https://pricepally.com/products/5ea5d4a3133ce.jpeg",
+    "price": 3000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 14,
+    "name": "Bags of Garri",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1539334413.JPG",
+    "price": 40000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 15,
+    "name": "Bag of Oron Crayfish",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1548931336.jpg",
+    "price": 35000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "livestock"
+  },
+  {
+    "id": 16,
+    "name": "Fresh Grapes",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 17,
+    "name": "Snails",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+    "price": 7000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "livestock"
+  },
+  {
+    "id": 18,
+    "name": "Mustard Seeds",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1544987078.jpg",
+    "price": 5000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "oils and oilseeds"
+  },
+  {
+    "id": 19,
+    "name": "Crate of Eggs",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1588703038.jpg",
+    "price": 1000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "livestock"
+  },
+  {
+    "id": 20,
+    "name": "Bags of Garri",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1539334413.JPG",
+    "price": 40000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 21,
+    "name": "Pure and locally extracted 5litres palm-oil",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1548750442.jpg",
+    "price": 7000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "oils and oilseeds"
+  },
+  {
+    "id": 22,
+    "name": "Bags of Sweet Potato",
+    "imageUrl": "https://i.etsystatic.com/17755157/r/il/1fb0e9/2600782924/il_794xN.2600782924_imnc.jpg",
+    "price": 35000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 23,
+    "name": "Bucket of Ogbono",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1602076715.jpg",
+    "price": 4000,
+    "rating": 0,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 24,
+    "name": "Fresh Grapes",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 25,
+    "name": "Snails",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+    "price": 7000,
+    "rating": 0,
+    "type": "retail buy",
+    "category": "livestock"
+  },
+  {
+    "id": 26,
+    "name": "Mustard Seeds",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1544987078.jpg",
+    "price": 5000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 27,
+    "name": "Pear - English (1 dozen) ",
+    "imageUrl": "https://pricepally.com/products/630ef8d960b1e.jpg",
+    "price": 2000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 28,
+    "name": "Wheat - local (50kg) ",
+    "imageUrl": "https://pricepally.com/products/6325c432d642e.jpg",
+    "price": 36000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "cereals and grains"
+  },
+  {
+    "id": 29,
+    "name": "Waterleaf (1 bag) ",
+    "imageUrl": "https://pricepally.com/products/6054d37cd2b99.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 30,
+    "name": "Vegetable - Ugwu (1 dozen) ",
+    "imageUrl": "https://pricepally.com/products/6329a9a2f0a96.jpg",
+    "price": 1000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 31,
+    "name": "Tuwo Rice (50kg) ",
+    "imageUrl": "https://pricepally.com/products/631339a80dc07.jpg",
+    "price": 30000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "cereals and grains"
+  },
+  {
+    "id": 32,
+    "name": "Egusi (100kg)",
+    "imageUrl": "https://pricepally.com/products/630efb3f2580e.jpg",
+    "price": 100000,
+    "rating": 3, 
+    "type": "bulk buy",
+    "category": "oils and oilseeds"
+  },
+  {
+    "id": 33,
+    "name": "Tiger Nuts (Bag)",
+    "imageUrl": "https://pricepally.com/products/6040cf9314b92.jpeg",
+    "price": 68000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 34,
+    "name": "Eggplant (20kg)",
+    "imageUrl": "https://pricepally.com/products/5d1e12f6bf684.jpeg",
+    "price": 15000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 35,
+    "name": "Dry Pepper (One-third bag)",
+    "imageUrl": "https://pricepally.com/products/5ecd3ac1d2162.jpeg",
+    "price": 14500,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 36,
+    "name": "Dry Pepper (Quarter bag)",
+    "imageUrl": "https://pricepally.com/products/5ecd390b19d75.jpeg",
+    "price": 10500,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 37,
+    "name": "Dates (100kg)",
+    "imageUrl": "https://pricepally.com/products/6040d36f2da74.jpeg",
+    "price": 84049,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 38,
+    "name": "Cucumber (40kg)",
+    "imageUrl": "https://pricepally.com/products/6040d41f538d0.jpeg",
+    "price": 17800,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 39,
+    "name": "Ram Meat - Big (Full)",
+    "imageUrl": "https://pricepally-images.s3.us-east-2.amazonaws.com/products/ft24aHB4MopT2Waran2klyShTusPX5Gb6w7OXi2b.jpg",
+    "price": 180000,
+    "rating": 3, 
+    "type": "bulk buy",
+    "category": "livestock"
+  },
+  {
+    "id": 40,
+    "name": "Egusi - meachine peeled (1 paint)",
+    "imageUrl": "https://pricepally-images.s3.us-east-2.amazonaws.com/products/61e64802845b0.jpg",
+    "price": 4000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "oils and oilseeds"
+  },
+  {
+    "id": 41,
+    "name": "Fresh Tomatoes (1 paint)",
+    "imageUrl": "https://pricepally.com/products/614a3ed98f8ba.jpg",
+    "price": 2300,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 42,
+    "name": "Goat Meat - With Bone (2kg)",
+    "imageUrl": "https://pricepally.com/products/61711df806ff9.jpg",
+    "price": 6390,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "livestock"
+  },
+  {
+    "id": 43,
+    "name": "Cow leg - With Bone (1kg)",
+    "imageUrl": "https://pricepally.com/products/61650ec10d0ca.jpg",
+    "price": 2500,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "livestock"
+  },
+  {
+    "id": 44,
+    "name": "Potato - Irish (1 paint bucket)",
+    "imageUrl": "https://pricepally.com/products/614f1eb18ac68.jpg",
+    "price": 2929,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 45,
+    "name": "Bell Pepper (2kg)",
+    "imageUrl": "https://pricepally.com/products/5ebe7d202779d.jpeg",
+    "price": 7300,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 46,
+    "name": "Freshly Killed Catfish - Small",
+    "imageUrl": "https://pricepally.com/products/624424c269ea6.jpg",
+    "price": 1300,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "livestock"
+  },
+  {
+    "id": 47,
+    "name": "Bags of Sweet Potato",
+    "imageUrl": "https://i.etsystatic.com/17755157/r/il/1fb0e9/2600782924/il_794xN.2600782924_imnc.jpg",
+    "price": 35000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "roots and tubers"
+  },
+  {
+    "id": 48,
+    "name": "Bucket of Ogbono",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1602076715.jpg",
+    "price": 4000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 49,
+    "name": "Fresh Grapes",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1616023809.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 50,
+    "name": "Snails",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1545576682.jpeg",
+    "price": 7000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "livestock"
+  },
+  {
+    "id": 51,
+    "name": "Mustard Seeds",
+    "imageUrl": "https://bulksuppliers.com.ng/products/1544987078.jpg",
+    "price": 5000,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 52,
+    "name": "Pear - English (1 dozen) ",
+    "imageUrl": "https://pricepally.com/products/630ef8d960b1e.jpg",
+    "price": 2000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 53,
+    "name": "Wheat - local (50kg) ",
+    "imageUrl": "https://pricepally.com/products/6325c432d642e.jpg",
+    "price": 36000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "cereals and grains"
+  },
+  {
+    "id": 54,
+    "name": "Waterleaf (1 bag) ",
+    "imageUrl": "https://pricepally.com/products/6054d37cd2b99.jpg",
+    "price": 3000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 55,
+    "name": "Vegetable - Ugwu (1 dozen) ",
+    "imageUrl": "https://pricepally.com/products/6329a9a2f0a96.jpg",
+    "price": 1000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 56,
+    "name": "Tuwo Rice (50kg) ",
+    "imageUrl": "https://pricepally.com/products/631339a80dc07.jpg",
+    "price": 30000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "cereals and grains"
+  },
+  {
+    "id": 57,
+    "name": "Egusi (100kg)",
+    "imageUrl": "https://pricepally-images.s3.us-east-2.amazonaws.com/products/61e64802845b0.jpg",
+    "price": 100000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "cereals and grains"
+  },
+  {
+    "id": 58,
+    "name": "Tiger Nuts (Bag)",
+    "imageUrl": "https://pricepally.com/products/6040cf9314b92.jpeg",
+    "price": 68000,
+    "rating": 3,
+    "type": "bulk buy"
+  },
+  {
+    "id": 59,
+    "name": "Eggplant (20kg)",
+    "imageUrl": "https://pricepally.com/products/5d1e12f6bf684.jpeg",
+    "price": 15000,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 60,
+    "name": "Dry Pepper (One-third bag)",
+    "imageUrl": "https://pricepally.com/products/5ecd3ac1d2162.jpeg",
+    "price": 14500,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 61,
+    "name": "Dry Pepper (Quarter bag)",
+    "imageUrl": "https://pricepally.com/products/5ecd390b19d75.jpeg",
+    "price": 10500,
+    "rating": 3,
+    "type": "retail buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 62,
+    "name": "Dates (100kg)",
+    "imageUrl": "https://pricepally.com/products/6040d36f2da74.jpeg",
+    "price": 84049,
+    "rating": 3,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 63,
+    "name": "Cucumber (40kg)",
+    "imageUrl": "https://pricepally.com/products/6040d41f538d0.jpeg",
+    "price": 17800,
+    "rating": 0,
+    "type": "bulk buy",
+    "category": "fruits and veggies"
+  },
+  {
+    "id": 64,
+    "name": "Ram Meat - Big (Full)",
+    "imageUrl": "https://pricepally-images.s3.us-east-2.amazonaws.com/products/6040e7ca22dbf.jpeg",
+    "price": 180000,
+    "rating": 3,   
+    "type": "bulk buy",
+    "category": "livestock"
+  }
+]
