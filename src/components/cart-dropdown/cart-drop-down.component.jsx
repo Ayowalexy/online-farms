@@ -24,8 +24,8 @@ const CartDropdown = () => {
         ) : (
           <span className='empty-message'>Your cart is empty</span>
         )}
-      </div>
       <button onClick={goToCheckoutHandler}>GO TO CHECKOUT</button>
+      </div>
     </div>
   );
 };
