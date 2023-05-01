@@ -7,16 +7,20 @@ import CartIcon from "../../components/cart-icon/cart-icon.component";
 import { CartContext } from "../../context/cart.context";
 import DropDown from "../../components/dropdown/dropdown.component";
 import Account from "../../components/account/account.component";
-
-import { NavigationContainer, LogoContainer, NavLinks, NavLink, } from "./navigation.styles";
+import TemporaryDrawer from "../../components/mobilenav/mobile-nav";
+import useMediaQuery from "../../components/usemediaquery";
+import SmallNav from "../../components/smallnav/smallnav";
+import {LogoContainer, NavLinks, NavLink, } from "./navigation.styles";
 import { NavIcon, NavDropdownIcon, Text } from "../../components/account/account.styles";
+import "./navigation.styles.scss"
 
 const Navigation = () => {
   const { isCartOpen } = useContext(CartContext);
-  const { isDropdownOpen} = useContext(CartContext);
+  const { isDropdownOpen } = useContext(CartContext);
+  const matches = useMediaQuery('(min-width: 800px)')
   return (
     <Fragment>
-      <NavigationContainer>
+      <div className="navigation">
         <LogoContainer to="/">
           <CrwnLogo className="logo" />
         </LogoContainer>
@@ -36,7 +40,10 @@ const Navigation = () => {
         </NavLinks>
        {isDropdownOpen && <DropDown />}
         {isCartOpen && <CartDropdown />}
-      </NavigationContainer>
+      </div>
+      <SmallNav/>
+      {!matches && <TemporaryDrawer/>}
+      
       <Outlet />
     </Fragment>
   );

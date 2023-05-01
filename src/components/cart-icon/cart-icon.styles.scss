@@ -5,3 +5,18 @@
     cursor: pointer;
     position: relative;
 }
+.item-count {
+    position: absolute;
+    font-size: 12px;
+    font-weight: bold;
+    bottom: 12px;
+    background: red;
+    top: 15%;
+    border-radius: 50%;
+    width: 1rem;
+    height: 1rem;
+    text-align: center;
+    color: #fff;
+    right: 47%;
+    z-index: 2;
+  }

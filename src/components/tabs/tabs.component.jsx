@@ -133,7 +133,7 @@ export default function BasicTabs() {
           />
         </div>
       </Box>
-      <TabPanel className="center" value={value} index={0}>
+      <TabPanel value={value} index={0}>
         <BulkCards>
           {bulkBuy
             ?.filter((_, bulkInfo) => bulkInfo < num)
